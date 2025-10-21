@@ -1,0 +1,47 @@
+[
+    {
+        "name": "22222",
+        "email": "fabiopernisa1@gmail.com",
+        "whatsapp": "22",
+        "gender": "Masculino",
+        "interests": [],
+        "consent": true,
+        "created_at": "2025-10-21 22:13:51"
+    },
+    {
+        "name": "jailson neto",
+        "email": "fabiopernisa1@gmail.com",
+        "whatsapp": "32555555",
+        "gender": "Masculino",
+        "interests": [],
+        "consent": true,
+        "created_at": "2025-10-21 22:14:02"
+    },
+    {
+        "name": "jailson neto",
+        "email": "fabiopernisa1@gmail.com",
+        "whatsapp": "32555555",
+        "gender": "",
+        "interests": [],
+        "consent": true,
+        "created_at": "2025-10-21 22:15:34"
+    },
+    {
+        "name": "fabio pernisa",
+        "email": "fabiopernisa1@gmail.com",
+        "whatsapp": "32555555",
+        "gender": "Masculino",
+        "interests": [],
+        "consent": true,
+        "created_at": "2025-10-21 23:01:42"
+    },
+    {
+        "name": "fabio pernisa",
+        "email": "fabiopernisa1@gmail.com",
+        "whatsapp": "32555555",
+        "gender": "Masculino",
+        "interests": [],
+        "consent": true,
+        "created_at": "2025-10-21 23:02:48"
+    }
+]

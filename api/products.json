@@ -1,0 +1,692 @@
+[
+    {
+        "id": 1,
+        "name": "Camisas 01",
+        "category": "camisas",
+        "price": 129.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/Camisas/1.jpeg",
+        "description": "Produto camisas — foto 1.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Camisas 02",
+        "category": "camisas",
+        "price": 129.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/Camisas/2.jpeg",
+        "description": "Produto camisas — foto 2.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Camisas 03",
+        "category": "camisas",
+        "price": 129.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/Camisas/3.jpeg",
+        "description": "Produto camisas — foto 3.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Camisas 04",
+        "category": "camisas",
+        "price": 129.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/Camisas/4.jpeg",
+        "description": "Produto camisas — foto 4.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Camisas 05",
+        "category": "camisas",
+        "price": 129.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/Camisas/5.jpeg",
+        "description": "Produto camisas — foto 5.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Camisas 06",
+        "category": "camisas",
+        "price": 129.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/Camisas/6.jpeg",
+        "description": "Produto camisas — foto 6.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Camisas 07",
+        "category": "camisas",
+        "price": 129.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/Camisas/7.jpeg",
+        "description": "Produto camisas — foto 7.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Camisas 08",
+        "category": "camisas",
+        "price": 129.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/Camisas/8.jpeg",
+        "description": "Produto camisas — foto 8.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Camisas 09",
+        "category": "camisas",
+        "price": 129.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/Camisas/9.jpeg",
+        "description": "Produto camisas — foto 9.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Camisas 10",
+        "category": "camisas",
+        "price": 129.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/Camisas/10.jpeg",
+        "description": "Produto camisas — foto 10.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "Calcas 01",
+        "category": "calcas",
+        "price": 179.9,
+        "sizes": [
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "image": "assets/img/Calças/1.jpeg",
+        "description": "Produto calcas — foto 1.jpeg"
+    },
+    {
+        "id": 12,
+        "name": "Calcas 02",
+        "category": "calcas",
+        "price": 179.9,
+        "sizes": [
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "image": "assets/img/Calças/2.jpeg",
+        "description": "Produto calcas — foto 2.jpeg"
+    },
+    {
+        "id": 13,
+        "name": "Calcas 03",
+        "category": "calcas",
+        "price": 179.9,
+        "sizes": [
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "image": "assets/img/Calças/3.jpeg",
+        "description": "Produto calcas — foto 3.jpeg"
+    },
+    {
+        "id": 14,
+        "name": "Calcas 04",
+        "category": "calcas",
+        "price": 179.9,
+        "sizes": [
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "image": "assets/img/Calças/4.jpeg",
+        "description": "Produto calcas — foto 4.jpeg"
+    },
+    {
+        "id": 15,
+        "name": "Calcas 05",
+        "category": "calcas",
+        "price": 179.9,
+        "sizes": [
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "image": "assets/img/Calças/5.jpeg",
+        "description": "Produto calcas — foto 5.jpeg"
+    },
+    {
+        "id": 16,
+        "name": "Calcas 06",
+        "category": "calcas",
+        "price": 179.9,
+        "sizes": [
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "image": "assets/img/Calças/6.jpeg",
+        "description": "Produto calcas — foto 6.jpeg"
+    },
+    {
+        "id": 17,
+        "name": "Calcas 07",
+        "category": "calcas",
+        "price": 179.9,
+        "sizes": [
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "image": "assets/img/Calças/7.jpeg",
+        "description": "Produto calcas — foto 7.jpeg"
+    },
+    {
+        "id": 18,
+        "name": "Calcas 08",
+        "category": "calcas",
+        "price": 179.9,
+        "sizes": [
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "image": "assets/img/Calças/8.jpeg",
+        "description": "Produto calcas — foto 8.jpeg"
+    },
+    {
+        "id": 19,
+        "name": "Calcas 09",
+        "category": "calcas",
+        "price": 179.9,
+        "sizes": [
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "image": "assets/img/Calças/9.jpeg",
+        "description": "Produto calcas — foto 9.jpeg"
+    },
+    {
+        "id": 20,
+        "name": "Calcas 10",
+        "category": "calcas",
+        "price": 179.9,
+        "sizes": [
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "image": "assets/img/Calças/10.jpeg",
+        "description": "Produto calcas — foto 10.jpeg"
+    },
+    {
+        "id": 21,
+        "name": "Acessorios 01",
+        "category": "acessorios",
+        "price": 89.9,
+        "sizes": [],
+        "image": "assets/img/Acessórios/1.jpeg",
+        "description": "Produto acessorios — foto 1.jpeg"
+    },
+    {
+        "id": 22,
+        "name": "Acessorios 02",
+        "category": "acessorios",
+        "price": 89.9,
+        "sizes": [],
+        "image": "assets/img/Acessórios/2.jpeg",
+        "description": "Produto acessorios — foto 2.jpeg"
+    },
+    {
+        "id": 23,
+        "name": "Acessorios 03",
+        "category": "acessorios",
+        "price": 89.9,
+        "sizes": [],
+        "image": "assets/img/Acessórios/3.jpeg",
+        "description": "Produto acessorios — foto 3.jpeg"
+    },
+    {
+        "id": 24,
+        "name": "Acessorios 04",
+        "category": "acessorios",
+        "price": 89.9,
+        "sizes": [],
+        "image": "assets/img/Acessórios/4.jpeg",
+        "description": "Produto acessorios — foto 4.jpeg"
+    },
+    {
+        "id": 25,
+        "name": "Acessorios 05",
+        "category": "acessorios",
+        "price": 89.9,
+        "sizes": [],
+        "image": "assets/img/Acessórios/5.jpeg",
+        "description": "Produto acessorios — foto 5.jpeg"
+    },
+    {
+        "id": 26,
+        "name": "Acessorios 06",
+        "category": "acessorios",
+        "price": 89.9,
+        "sizes": [],
+        "image": "assets/img/Acessórios/6.jpeg",
+        "description": "Produto acessorios — foto 6.jpeg"
+    },
+    {
+        "id": 27,
+        "name": "Acessorios 07",
+        "category": "acessorios",
+        "price": 89.9,
+        "sizes": [],
+        "image": "assets/img/Acessórios/7.jpeg",
+        "description": "Produto acessorios — foto 7.jpeg"
+    },
+    {
+        "id": 28,
+        "name": "Acessorios 08",
+        "category": "acessorios",
+        "price": 89.9,
+        "sizes": [],
+        "image": "assets/img/Acessórios/8.jpeg",
+        "description": "Produto acessorios — foto 8.jpeg"
+    },
+    {
+        "id": 29,
+        "name": "Acessorios 09",
+        "category": "acessorios",
+        "price": 89.9,
+        "sizes": [],
+        "image": "assets/img/Acessórios/9.jpeg",
+        "description": "Produto acessorios — foto 9.jpeg"
+    },
+    {
+        "id": 30,
+        "name": "Acessorios 10",
+        "category": "acessorios",
+        "price": 89.9,
+        "sizes": [],
+        "image": "assets/img/Acessórios/10.jpeg",
+        "description": "Produto acessorios — foto 10.jpeg"
+    },
+    {
+        "id": 31,
+        "name": "Calcados 01",
+        "category": "calcados",
+        "price": 219.9,
+        "sizes": [
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43"
+        ],
+        "image": "assets/img/Calçados/1.jpeg",
+        "description": "Produto calcados — foto 1.jpeg"
+    },
+    {
+        "id": 32,
+        "name": "Calcados 02",
+        "category": "calcados",
+        "price": 219.9,
+        "sizes": [
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43"
+        ],
+        "image": "assets/img/Calçados/2.jpeg",
+        "description": "Produto calcados — foto 2.jpeg"
+    },
+    {
+        "id": 33,
+        "name": "Calcados 03",
+        "category": "calcados",
+        "price": 219.9,
+        "sizes": [
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43"
+        ],
+        "image": "assets/img/Calçados/3.jpeg",
+        "description": "Produto calcados — foto 3.jpeg"
+    },
+    {
+        "id": 34,
+        "name": "Calcados 04",
+        "category": "calcados",
+        "price": 219.9,
+        "sizes": [
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43"
+        ],
+        "image": "assets/img/Calçados/4.jpeg",
+        "description": "Produto calcados — foto 4.jpeg"
+    },
+    {
+        "id": 35,
+        "name": "Calcados 05",
+        "category": "calcados",
+        "price": 219.9,
+        "sizes": [
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43"
+        ],
+        "image": "assets/img/Calçados/5.jpeg",
+        "description": "Produto calcados — foto 5.jpeg"
+    },
+    {
+        "id": 36,
+        "name": "Calcados 06",
+        "category": "calcados",
+        "price": 219.9,
+        "sizes": [
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43"
+        ],
+        "image": "assets/img/Calçados/6.jpeg",
+        "description": "Produto calcados — foto 6.jpeg"
+    },
+    {
+        "id": 37,
+        "name": "Calcados 07",
+        "category": "calcados",
+        "price": 219.9,
+        "sizes": [
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43"
+        ],
+        "image": "assets/img/Calçados/7.jpeg",
+        "description": "Produto calcados — foto 7.jpeg"
+    },
+    {
+        "id": 38,
+        "name": "Calcados 08",
+        "category": "calcados",
+        "price": 219.9,
+        "sizes": [
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43"
+        ],
+        "image": "assets/img/Calçados/8.jpeg",
+        "description": "Produto calcados — foto 8.jpeg"
+    },
+    {
+        "id": 39,
+        "name": "Calcados 09",
+        "category": "calcados",
+        "price": 219.9,
+        "sizes": [
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43"
+        ],
+        "image": "assets/img/Calçados/9.jpeg",
+        "description": "Produto calcados — foto 9.jpeg"
+    },
+    {
+        "id": 40,
+        "name": "Calcados 10",
+        "category": "calcados",
+        "price": 219.9,
+        "sizes": [
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43"
+        ],
+        "image": "assets/img/Calçados/10.jpeg",
+        "description": "Produto calcados — foto 10.jpeg"
+    },
+    {
+        "id": 41,
+        "name": "Moletons 01",
+        "category": "moletons",
+        "price": 199.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/moletons/1.jpeg",
+        "description": "Produto moletons — foto 1.jpeg"
+    },
+    {
+        "id": 42,
+        "name": "Moletons 02",
+        "category": "moletons",
+        "price": 199.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/moletons/2.jpeg",
+        "description": "Produto moletons — foto 2.jpeg"
+    },
+    {
+        "id": 43,
+        "name": "Moletons 03",
+        "category": "moletons",
+        "price": 199.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/moletons/3.jpeg",
+        "description": "Produto moletons — foto 3.jpeg"
+    },
+    {
+        "id": 44,
+        "name": "Moletons 04",
+        "category": "moletons",
+        "price": 199.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/moletons/4.jpeg",
+        "description": "Produto moletons — foto 4.jpeg"
+    },
+    {
+        "id": 45,
+        "name": "Moletons 05",
+        "category": "moletons",
+        "price": 199.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/moletons/5.jpeg",
+        "description": "Produto moletons — foto 5.jpeg"
+    },
+    {
+        "id": 46,
+        "name": "Moletons 06",
+        "category": "moletons",
+        "price": 199.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/moletons/6.jpeg",
+        "description": "Produto moletons — foto 6.jpeg"
+    },
+    {
+        "id": 47,
+        "name": "Moletons 07",
+        "category": "moletons",
+        "price": 199.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/moletons/7.jpeg",
+        "description": "Produto moletons — foto 7.jpeg"
+    },
+    {
+        "id": 48,
+        "name": "Moletons 08",
+        "category": "moletons",
+        "price": 199.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/moletons/8.jpeg",
+        "description": "Produto moletons — foto 8.jpeg"
+    },
+    {
+        "id": 49,
+        "name": "Moletons 09",
+        "category": "moletons",
+        "price": 199.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/moletons/9.jpeg",
+        "description": "Produto moletons — foto 9.jpeg"
+    },
+    {
+        "id": 50,
+        "name": "Moletons 10",
+        "category": "moletons",
+        "price": 199.9,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "image": "assets/img/moletons/10.jpeg",
+        "description": "Produto moletons — foto 10.jpeg"
+    }
+]
