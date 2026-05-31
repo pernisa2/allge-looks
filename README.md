@@ -1,6 +1,3 @@
-<img width="1600" height="562" alt="WhatsApp Image 2026-05-31 at 19 45 12" src="https://github.com/user-attachments/assets/477299e6-aae1-464d-9405-fdc8baf7d0e3" />
-# 🛍️ Allge Looks
-
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
@@ -48,3 +45,5 @@ Por se tratar de uma aplicação que roda do lado do servidor (Back-End), você 
 ## 🧑‍💻 Desenvolvedor
 
 * **GitHub:** [@pernisa2](https://github.com/pernisa2)
+
+<img width="1600" height="562" alt="WhatsApp Image 2026-05-31 at 19 45 12" src="https://github.com/user-attachments/assets/16c8f6f6-0cce-44db-b63d-741acc2d90ef" />
