@@ -46,4 +46,10 @@ Por se tratar de uma aplicação que roda do lado do servidor (Back-End), você 
 
 * **GitHub:** [@pernisa2](https://github.com/pernisa2)
 
-<img width="1600" height="562" alt="WhatsApp Image 2026-05-31 at 19 45 12" src="https://github.com/user-attachments/assets/16c8f6f6-0cce-44db-b63d-741acc2d90ef" />
+### 📐 Demonstração Visual
+
+<p align="center">
+* <img width="1600" height="562" alt="WhatsApp Image 2026-05-31 at 19 45 12" src="https://github.com/user-attachments/assets/16c8f6f6-0cce-44db-b63d-741acc2d90ef" />
+</p>
+
+
