@@ -30,15 +30,17 @@ Diferente de um site estático comum, este projeto aplica boas práticas de dese
 * `api/`: Camada de controle contendo scripts isolados como `subscribe.php` (validação e persistência de formulários) e `build_products.php`.
 * `includes/`: Fragmentos estruturais reutilizáveis da interface.
 
-## 🕹️ Como Rodar o Projeto Localmente
+## 🕹️ Como Rodar o Projeto Localmente (Ambiente PHP)
 
-Por se tratar de uma aplicação que roda do lado do servidor (Back-End), você precisará de um ambiente local com suporte a PHP:
+Por se tratar de uma aplicação que roda do lado do servidor (Back-End), você precisará de um ambiente local configurado:
 
-1. Baixe e instale um gerenciador de servidores locais como o **XAMPP**, **Laragon** ou **WampServer**.
-2. Clone ou baixe este repositório.
-3. Cole a pasta do projeto dentro do diretório raiz do seu servidor (ex: pasta `htdocs` no XAMPP ou `www` no Laragon).
-4. Certifique-se de dar permissões de escrita para a pasta raiz para que os arquivos `.json` possam ser atualizados pelo PHP.
-5. Abra o navegador e acesse: `http://localhost/allge-looks-main/index.php`
+1. Baixe e instale o gerenciador de servidores locais **XAMPP**.
+2. Mova ou extraia a pasta do projeto `allge-looks` para dentro do diretório raiz do servidor (pasta `htdocs` do seu XAMPP).
+3. Abra o **XAMPP Control Panel**.
+4. **⚠️ Passo Obrigatório:** No painel, clique no botão **"Start"** ao lado de **Apache** e **MySQL**. Certifique-se de que ambos ficaram com o **fundo verde**. 
+   *(Nota: Se você fechar o painel ou interromper esses serviços, o ambiente local deixará de funcionar imediatamente).*
+5. Abra o seu navegador (certifique-se de que extensões de VPN estejam desativadas) e acesse o link oficial do projeto:
+   👉 **[http://localhost/allge-looks/](http://localhost/allge-looks/)**
 
 ---
 
